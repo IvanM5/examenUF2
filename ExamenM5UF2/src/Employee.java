@@ -6,6 +6,7 @@ public class Employee {
    public Employee(String name, double salary) {
       myName = name;
       mySalary = salary;
+      System.out.println("Soc la segona versio");
    }
 
    public String getName() {
